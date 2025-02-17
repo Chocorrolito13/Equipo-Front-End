@@ -2,7 +2,7 @@ Tienda de Música
 Este es un proyecto de una página web para una Tienda de Música, desarrollado con HTML, CSS y JavaScript.
 
 Estructura del Proyecto
-  El archivo HTML está organizado de la siguiente manera:
+  El archivo HTML está organizado de la siguiente manera: 
 • Encabezado (<head>)
   -Definición de la codificación de caracteres en UTF-8.
   -Configuración de la metaetiqueta para una correcta visualización en dispositivos móviles.
